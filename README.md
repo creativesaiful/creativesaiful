@@ -1,6 +1,6 @@
 ### Md Saiful Islam 👋
-### Web application developer 
-### PHP | Lravarel 
+### Web application developer
+> PHP | Laravel 
 
 - 🔭 I’m a lavel Two seller on fiverr.com
 - 🌱 I’m currently working as a Laravel Developer
