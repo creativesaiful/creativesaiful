@@ -8,7 +8,7 @@
 - 📫 How to reach me: saifulislamsapon@gmail.com
 - 📫 Facebook: https://www.facebook.com/saifulislam.sapon1
 - 📫 Linkedin: https://www.linkedin.com/in/creativesaiful/
-- 📫 Linkedin: https://twitter.com/templatehost
+- 📫 Twitter: https://twitter.com/templatehost
 - 📫 Fiverr: https://www.fiverr.com/creativesaiful
 
 
