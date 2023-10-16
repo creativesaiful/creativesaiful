@@ -4,7 +4,7 @@
 
 - 🔭 I’m a Lavel Two seller on fiverr.com
 - 🌱 I’m currently working as a Laravel Developer
-- 💬 Ask me about HTML, CSS, Bootstrap, Javascript, jQuery, PHP, laravel, MySql, and Wordpress
+- 💬 Ask me about PHP, laravel, Wordpress Javascript, jQuery, MySql
 - 📫 How to reach me: saifulislamsapon@gmail.com
 - 📫 Facebook: https://www.facebook.com/saifulislam.sapon1
 - 📫 Linkedin: https://www.linkedin.com/in/creativesaiful/
