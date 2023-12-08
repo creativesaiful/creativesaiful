@@ -1,10 +1,10 @@
 ### Md Saiful Islam 👋
 ### Web application developer
-> PHP | Laravel 
+> PHP | Laravel | Vue.js
 
-- 🔭 I’m a Lavel Two seller on fiverr.com
+- 🔭 I’m a Level Two seller on fiverr.com
 - 🌱 I’m currently working as a Laravel Developer
-- 💬 Ask me about PHP, laravel, Wordpress Javascript, jQuery, MySql
+- 💬 Ask me about PHP, laravel, Wordpress Javascript, jQuery, Vue.js, MySql
 - 📫 How to reach me: saifulislamsapon@gmail.com
 - 📫 Facebook: https://www.facebook.com/saifulislam.sapon1
 - 📫 Linkedin: https://www.linkedin.com/in/creativesaiful/
