@@ -1,6 +1,6 @@
 ### Md Saiful Islam 👋
 ### Web application developer
-> PHP | Laravel | Vue.js
+> PHP | Laravel | Shopify
 
 - 🔭 I’m a Level Two seller on fiverr.com
 - 🌱 I’m currently working as a Laravel Developer
